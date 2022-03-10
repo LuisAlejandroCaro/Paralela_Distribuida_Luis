@@ -7,7 +7,7 @@
 $repeticiones = 30;
 @ejecutables = ("matricesApp");
 @matrizSize = ("100", "200", "400", "800", "1000", "1200", "2000", "4000");
-$path = "/mnt/d/Documents/Universidad/ComputaciónPararelaYDistribuida/CorteI/EjerciciosC/separada04/";
+@ruta https://github.com/LuisAlejandroCaro/Paralela_Distribuida_Luis/blob/main/README
 
 foreach $exe (@ejecutables) {
 	foreach $size (@matrizSize) {
